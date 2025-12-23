@@ -1,0 +1,40 @@
+html {
+
+    background-color: yellow;
+}
+
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: hsl(271, 76%, 53%);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+table {
+    width: max-content;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgba(106, 27, 27, 0.7);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid white;
+   
+}
+
+td{
+    background-color:aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+    border: 1px solid white;  
+}
